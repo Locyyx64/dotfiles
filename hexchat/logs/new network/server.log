@@ -1,0 +1,23 @@
+**** BEGIN LOGGING AT Mon Feb 21 09:32:53 2022
+
+febr 21 09:32:53 *	Looking up newserver
+**** BEGIN LOGGING AT Mon Feb 21 09:33:03 2022
+
+febr 21 09:33:03 *	Looking up newserver
+febr 21 09:33:03 Not connected. Try /server <host> [<port>]
+febr 21 09:33:03 *	Unknown host. Maybe you misspelled it?
+febr 21 09:33:13 Cycling to next server in New Network...
+febr 21 09:33:13 *	Disconnected ()
+**** ENDING LOGGING AT Mon Feb 21 09:33:13 2022
+
+**** BEGIN LOGGING AT Mon Feb 21 09:33:13 2022
+
+febr 21 09:33:13 *	Looking up newserver
+febr 21 09:33:13 *	Unknown host. Maybe you misspelled it?
+febr 21 09:33:17 Sysinfo plugin unloaded
+febr 21 09:33:17 FiSHLiM plugin unloaded
+febr 21 09:33:17 Python interface unloaded
+febr 21 09:33:17 Perl interface unloaded
+febr 21 09:33:17 Checksum plugin unloaded
+**** ENDING LOGGING AT Mon Feb 21 09:33:17 2022
+

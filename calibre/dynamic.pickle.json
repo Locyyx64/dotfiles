@@ -1,0 +1,16 @@
+{
+  "add books dialog dir": "/home/amogus/Torrents",
+  "database location dialog": "/home/amogus/Torrents",
+  "sort_history": [
+    [
+      "timestamp",
+      false
+    ],
+    [
+      "timestamp",
+      false
+    ]
+  ],
+  "welcome_wizard_device": "default",
+  "welcome_wizard_was_run": true
+}
