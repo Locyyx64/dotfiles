@@ -1,0 +1,18 @@
+00:00:00.210590 VirtualBox GUI VM Selector Window 6.1.32_Ubuntu r149290 linux.amd64 (Feb  8 2022 12:20:46) release log
+00:00:00.210591 Log opened 2022-03-23T21:19:47.564486000Z
+00:00:00.210592 Build Type: release
+00:00:00.210596 OS Product: Linux
+00:00:00.210596 OS Release: 5.13.0-37-generic
+00:00:00.210597 OS Version: #42~20.04.1-Ubuntu SMP Tue Mar 15 15:44:28 UTC 2022
+00:00:00.210616 DMI Product Name: MS-7C88
+00:00:00.210620 DMI Product Version: 1.0
+00:00:00.210626 Firmware type: UEFI
+00:00:00.210780 Secure Boot: Disabled
+00:00:00.210809 Host RAM: 15940MB (15.5GB) total, 13363MB (13.0GB) available
+00:00:00.210812 Executable: /usr/lib/virtualbox/VirtualBox
+00:00:00.210813 Process ID: 6158
+00:00:00.210813 Package type: LINUX_64BITS_GENERIC (OSE)
+00:00:00.210835 Qt version: 5.12.8
+00:00:00.226871 GUI: UIMediumEnumerator: Medium-enumeration started...
+00:00:00.514484 GUI: UIDesktopWidgetWatchdog::sltHandleHostScreenAvailableGeometryCalculated: Screen 0 work area is actually resized to: 0x30 x 960x1050
+00:00:00.524748 GUI: UIMediumEnumerator: Medium-enumeration finished!
